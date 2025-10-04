@@ -1,0 +1,14 @@
+**/.DS_STORE
+**/node_modules
+**/dist
+**/bundle.js
+**/bundle.js.map
+**/coverage
+**/npm-debug.log
+**/yarn-error.log
+**/yarn-debug.log
+**/.env
+**/.vscode
+**/.idea
+**/.history
+**/.nyc_output
